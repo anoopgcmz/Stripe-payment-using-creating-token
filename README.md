@@ -9,4 +9,5 @@ create a stripe account and get your secret key from API Keys tab.
 `stripe.tokens.create` is used to create the token. card details are passed in this function
 
 `stripe.charges.create` is used for making the payment.
-#happpy coding
+
+
