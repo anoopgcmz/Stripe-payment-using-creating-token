@@ -1,0 +1,14 @@
+{
+  "name": "nodestripetest",
+  "version": "1.0.0",
+  "description": "test for node stripe library",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Anoop",
+  "license": "ISC",
+  "dependencies": {
+    "stripe": "^5.8.0"
+  }
+}
